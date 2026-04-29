@@ -52,6 +52,8 @@ Las evidencias del desarrollo se encuentran en la carpeta:
 
 ![Evidencia 4](docs/App-reviews-admin-reviews.png)
 
+![Evidencia 4](docs/App-relacion.png)
+
 
 
 
