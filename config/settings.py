@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'movies',
+    'reviews',
     'rest_framework',  # DRF
     'django.contrib.admin',
     'django.contrib.auth',
