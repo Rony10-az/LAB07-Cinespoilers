@@ -34,8 +34,8 @@ Las evidencias del desarrollo se encuentran en la carpeta:
 ![Evidencia 1](docs/FuncionalidadDelProyecto.png)
 
 
-![Evidencia 2](docs/Segunda evidencia.png)
-![Evidencia 2](docs/Segunda evidencia1.png)
+![Evidencia 2](docs/Segunda%20evidencia.png)
+![Evidencia 2](docs/Segunda%20evidencia1.png)
 
 
 
